@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+/* hearder  */
+.header-bg{
+    background-color: #264653;
+}
+.header-text{
+    color: #E0E0E0;
+    font-weight: 300;
+
+}
+.purchase-button{
+    background-color: #E76F51;
+    color: white;
+    padding: 10px 40px;
+}
+/* feture  */
+.fetured-color{
+    color: #E76F51;
+    font-size: 14px;
+    font-weight: 600;
+
+}
+.hr-color{
+    color: #E76F51;
+    width: 60px;
+    margin-top: -10px;
+    font-weight: 700;
+    
+}
+
+/* clint  */
+.clint{
+    color: #E76F51;
+}
+.customer-img{
+    height: 150px; 
+    width: 150px;
+}
+.customer-rating{
+    color: #E77C40;
+    margin: 10px;
+}
+/* qus 
+ */
+
+ .qus-box{
+     border: 1px solid #D5E5FB;
+ }
